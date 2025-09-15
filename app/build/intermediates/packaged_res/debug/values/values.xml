@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF4081</color>
+    <color name="background">#FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="error">#F44336</color>
+    <color name="message_received_bg">#E0E0E0</color>
+    <color name="message_received_text">#212121</color>
+    <color name="message_sent_bg">#2196F3</color>
+    <color name="message_sent_text">#FFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="success">#4CAF50</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="warning">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about">About</string>
+    <string name="app_name">ChatterBug</string>
+    <string name="bluetooth_enabled">Bluetooth enabled successfully</string>
+    <string name="bluetooth_not_supported">Bluetooth is not supported on this device</string>
+    <string name="bluetooth_required">Bluetooth is required for this app to work</string>
+    <string name="connected">Connected</string>
+    <string name="connected_to">Connected to %s</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="device_discoverable">Device is now discoverable for 5 minutes</string>
+    <string name="enable_bluetooth_first">Please enable Bluetooth first</string>
+    <string name="failed_to_connect">Failed to connect to %s</string>
+    <string name="make_discoverable">Make Discoverable</string>
+    <string name="no_devices_found">No devices found. Make sure other devices are discoverable.</string>
+    <string name="not_connected">Not connected to device</string>
+    <string name="permissions_required">Bluetooth permissions are required for this app to work</string>
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">Select Device</string>
+    <string name="send">Send</string>
+    <string name="start_chat">Start Chat</string>
+    <string name="type_message">Type a message...</string>
+    <style name="Theme.ChatterBug" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="Theme.ChatterBug.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.ChatterBug.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ChatterBug.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

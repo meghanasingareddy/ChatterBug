@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/layout_activity_device_list.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/layout/activity_device_list.xml"
+    },
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/drawable_message_received_bg.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/drawable/message_received_bg.xml"
+    },
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/layout_activity_chat.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/layout_item_message_received.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/layout_item_device.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/drawable_message_sent_bg.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/drawable/message_sent_bg.xml"
+    },
+    {
+        "merged": "com.example.chatterbug.app-merged_res-31:/layout_item_message_sent.xml.flat",
+        "source": "com.example.chatterbug.app-main-33:/layout/item_message_sent.xml"
+    }
+]
