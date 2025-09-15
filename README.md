@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatterBug - Bluetooth Chat Application
 
 ChatterBug is an Android application that enables peer-to-peer communication between nearby devices using Bluetooth technology, without requiring an internet connection.
@@ -158,3 +159,7 @@ This project is created for educational purposes and demonstrates Bluetooth comm
 ---
 
 **Note**: This app requires physical Android devices for testing as Bluetooth functionality is not available in Android emulators.
+=======
+# ChatterBug
+ChatterBug – A Bluetooth-based chat application that enables secure, offline, peer-to-peer messaging between nearby Android devices without internet connectivity.
+>>>>>>> c17a5fe43860d6301d4757f8aec5031291fc6bca
